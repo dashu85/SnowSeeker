@@ -1,18 +1,18 @@
 //
-//  SharingObservableObjects.swift
+//  ResortView.swift
 //  SnowSeeker
 //
-//  Created by Marcus Benoit on 23.09.24.
+//  Created by Marcus Benoit on 24.09.24.
 //
 
 import SwiftUI
 
-struct SharingObservableObjects: View {
+struct ResortView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    SharingObservableObjects()
+    ResortView()
 }

@@ -1,18 +1,18 @@
 //
-//  NavSplitView.swift
+//  SkiDetailsView.swift
 //  SnowSeeker
 //
-//  Created by Marcus Benoit on 15.09.24.
+//  Created by Marcus Benoit on 24.09.24.
 //
 
 import SwiftUI
 
-struct NavSplitView: View {
+struct SkiDetailsView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    NavSplitView()
+    SkiDetailsView()
 }
